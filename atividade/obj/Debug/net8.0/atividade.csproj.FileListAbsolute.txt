@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\obj\Debug\net8.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\obj\Debug\net8.0\atividade.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\obj\Debug\net8.0\atividade.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\obj\Debug\net8.0\atividade.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\obj\Debug\net8.0\atividade.sourcelink.json
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\bin\Debug\net8.0\atividade.exe
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\bin\Debug\net8.0\atividade.deps.json
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\bin\Debug\net8.0\atividade.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\bin\Debug\net8.0\atividade.dll
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\bin\Debug\net8.0\atividade.pdb
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\obj\Debug\net8.0\atividade.dll
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\obj\Debug\net8.0\refint\atividade.dll
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\obj\Debug\net8.0\atividade.pdb
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\obj\Debug\net8.0\atividade.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\Mily2025\Atividade\Calculadora-metodo\atividade\obj\Debug\net8.0\ref\atividade.dll
