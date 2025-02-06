@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\Atividade\\Calculadora-metodo\\atividade\\atividade.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\Atividade\\Calculadora-metodo\\atividade.csproj",
       "projectName": "atividade",
-      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\Atividade\\Calculadora-metodo\\atividade\\atividade.csproj",
+      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\Atividade\\Calculadora-metodo\\atividade.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\Atividade\\Calculadora-metodo\\atividade\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\Mily2025\\Atividade\\Calculadora-metodo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
