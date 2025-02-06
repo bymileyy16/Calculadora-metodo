@@ -1,4 +1,5 @@
 ﻿using Calculadora;
+using Layout;
 
 repetir_valor1:
 Console.Write("Informe o primeiro valor: ");
@@ -16,5 +17,7 @@ if (!decimal.TryParse(Console.ReadLine(), out decimal valor2))
     goto repetir_valor2;
 }
 
-Operacoes.RealizarAdicao(valor1, valor2);
-
+Operacoes.RealizarAdicao(valor1, valor2); 
+{
+    Formatacao.Cor($"A soma dos valores é: {valor1+ valor2}", ConsoleColor.DarkMagenta);
+}
